@@ -1,0 +1,33 @@
+_repo: Bell-s-Cathedrals--The-Cathedral-Church-of-ElyA-History-and-Description-of-the-Building-with-__21003
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sweeting, W. D. (Walter Debenham)
+    alias: Sweeting, Walter Debenham
+    birthdate: 1839
+    deathdate: 1913
+    gutenberg_agent_id: '9668'
+    url: http://www.gutenberg.org/2009/agents/9668
+description: ''
+gutenberg_bookshelf:
+- Architecture
+- United Kingdom
+gutenberg_issued: '2007-04-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21003'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NA'
+- !lcsh 'Ely Cathedral'
+title: 'Bell''s Cathedrals: The Cathedral Church of Ely
+
+  A History and Description of the Building with a Short Account of the Monastery
+  and of the See'
+url: http://www.gutenberg.org/ebooks/21003
