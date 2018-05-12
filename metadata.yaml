@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '9668'
     url: http://www.gutenberg.org/2009/agents/9668
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21003#Bell-s-Cathedrals--The-Cathedral-Church-of-ElyA-History-and-Description-of-the-Building-with-_
 gutenberg_bookshelf:
 - Architecture
 - United Kingdom
